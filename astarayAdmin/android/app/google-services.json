@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951289947726",
+    "firebase_url": "https://astarayapp-3a2fc.firebaseio.com",
+    "project_id": "astarayapp-3a2fc",
+    "storage_bucket": "astarayapp-3a2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951289947726:android:41356af51484ade1",
+        "android_client_info": {
+          "package_name": "com.example.astaray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951289947726-65a4agme62mhv6jmanorgbc52k0i6v8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5AsgAIqfSDKNxnOV1rf_s5zIRJW2X0Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951289947726-65a4agme62mhv6jmanorgbc52k0i6v8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

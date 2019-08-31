@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951289947726-dol1dvsio7c25bsga3r6vsb5qpeo3es1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951289947726-dol1dvsio7c25bsga3r6vsb5qpeo3es1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1j8GlVRDYht_pCYXhb9fUhm3R80sBP78</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951289947726</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.astaray</string>
+	<key>PROJECT_ID</key>
+	<string>astarayapp-3a2fc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>astarayapp-3a2fc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951289947726:ios:41356af51484ade1</string>
+	<key>DATABASE_URL</key>
+	<string>https://astarayapp-3a2fc.firebaseio.com</string>
+</dict>
+</plist>
